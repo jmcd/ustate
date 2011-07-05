@@ -1,0 +1,5 @@
+C:\Development\ustate\src\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\ustate\src\bin\Debug\ustate.dll
+C:\Development\ustate\src\bin\Debug\ustate.pdb
+C:\Development\ustate\src\obj\Debug\ustate.dll
+C:\Development\ustate\src\obj\Debug\ustate.pdb

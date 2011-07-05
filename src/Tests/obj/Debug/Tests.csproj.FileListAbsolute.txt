@@ -1,0 +1,8 @@
+C:\Development\ustate\src\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\ustate\src\Tests\bin\Debug\Tests.dll
+C:\Development\ustate\src\Tests\bin\Debug\Tests.pdb
+C:\Development\ustate\src\Tests\bin\Debug\nunit.framework.dll
+C:\Development\ustate\src\Tests\bin\Debug\ustate.dll
+C:\Development\ustate\src\Tests\bin\Debug\ustate.pdb
+C:\Development\ustate\src\Tests\obj\Debug\Tests.dll
+C:\Development\ustate\src\Tests\obj\Debug\Tests.pdb

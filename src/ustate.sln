@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ustate", "ustate.csproj", "{144438E0-8659-4C16-A28E-E9C44DDF8B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7FA701E1-B7D8-47BC-A8B9-A54F51288289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144438E0-8659-4C16-A28E-E9C44DDF8B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144438E0-8659-4C16-A28E-E9C44DDF8B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144438E0-8659-4C16-A28E-E9C44DDF8B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144438E0-8659-4C16-A28E-E9C44DDF8B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA701E1-B7D8-47BC-A8B9-A54F51288289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA701E1-B7D8-47BC-A8B9-A54F51288289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA701E1-B7D8-47BC-A8B9-A54F51288289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA701E1-B7D8-47BC-A8B9-A54F51288289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
