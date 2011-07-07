@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ImdbActor.cs" />
     <Compile Include="Csv.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -51,6 +52,11 @@
       <Project>{144438E0-8659-4C16-A28E-E9C44DDF8B85}</Project>
       <Name>ustate</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="actors.list.short">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
 
 namespace ustate
 {
@@ -27,7 +26,10 @@ namespace ustate
             var condition = CurrentState.GetCondtion(c);
             condition.TransitionAction.Execute(c);
             var nextState = condition.TransitionAction.Transition.NextState;
-            CurrentState = States.Where(x => x == nextState).Single();
+
+            //Console.WriteLine(CurrentState.Name + " -> " +nextState.Name);
+
+            CurrentState = nextState;
         }
     }
 }

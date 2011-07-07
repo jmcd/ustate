@@ -8,13 +8,32 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="144438E0-8659-4C16-A28E-E9C44DDF8B85/f:Program.cs" caret="2586" fromTop="38" />
-      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Class1.cs" caret="673" fromTop="25" />
+      <File id="144438E0-8659-4C16-A28E-E9C44DDF8B85/f:Condition.cs" caret="0" fromTop="0" />
+      <File id="144438E0-8659-4C16-A28E-E9C44DDF8B85/f:State.cs" caret="1096" fromTop="42" />
+      <File id="144438E0-8659-4C16-A28E-E9C44DDF8B85/f:Transition.cs" caret="0" fromTop="0" />
+      <File id="144438E0-8659-4C16-A28E-E9C44DDF8B85/f:TransitionAction.cs" caret="574" fromTop="21" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Csv.cs" caret="796" fromTop="22" />
+      <File id="144438E0-8659-4C16-A28E-E9C44DDF8B85/f:Machine.cs" caret="893" fromTop="30" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:actors.list.short" caret="0" fromTop="0" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="2856" fromTop="98" />
     </RecentFiles>
     <RecentEdits>
-      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Class1.cs" caret="251" fromTop="14" />
-      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Class1.cs" caret="2675" fromTop="49" />
-      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Class1.cs" caret="2584" fromTop="25" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Csv.cs" caret="2658" fromTop="49" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Csv.cs" caret="2668" fromTop="23" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Csv.cs" caret="685" fromTop="26" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:Csv.cs" caret="239" fromTop="11" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="214" fromTop="10" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:actors.list.short" caret="0" fromTop="0" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="1328" fromTop="25" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="1401" fromTop="33" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="1627" fromTop="30" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="1204" fromTop="6" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="3011" fromTop="29" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="2806" fromTop="24" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="2442" fromTop="19" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="2021" fromTop="35" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="2940" fromTop="40" />
+      <File id="7FA701E1-B7D8-47BC-A8B9-A54F51288289/f:ImdbActor.cs" caret="2856" fromTop="42" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -32,6 +51,49 @@
     <ItemStatistics item="Default">
       <Item value="public" priority="0" />
       <Item value="void" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="machine" priority="0" />
+      <Item value="beforeTitle" priority="1" />
+      <Item value="newCell" priority="3" />
+      <Item value="title" priority="0" />
+      <Item value="tv" priority="0" />
+      <Item value="newChar" priority="3" />
+      <Item value="movie" priority="0" />
+      <Item value="meta" priority="2" />
+      <Item value="charName" priority="0" />
+      <Item value="billing" priority="0" />
+      <Item value="finalCell" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="default" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="r" priority="0" />
+      <Item value="ConsoleSpecialKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ustate.Machine">
+      <Item value="NewState`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ustate.Condition">
+      <Item value="Go`0" priority="7" />
+      <Item value="Exec`0" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ustate.State">
+      <Item value="On`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ustate.Transition">
+      <Item value="Default`0" priority="4" />
+      <Item value="On`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ustate.TransitionAction">
+      <Item value="Go`0" priority="1" />
+      <Item value="Default`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WindowLeft" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

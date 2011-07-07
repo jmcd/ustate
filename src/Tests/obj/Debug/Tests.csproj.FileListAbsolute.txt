@@ -6,3 +6,4 @@ C:\Development\ustate\src\Tests\bin\Debug\ustate.dll
 C:\Development\ustate\src\Tests\bin\Debug\ustate.pdb
 C:\Development\ustate\src\Tests\obj\Debug\Tests.dll
 C:\Development\ustate\src\Tests\obj\Debug\Tests.pdb
+C:\Development\ustate\src\Tests\bin\Debug\actors.list.short
